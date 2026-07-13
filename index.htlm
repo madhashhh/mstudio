@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>M $TUDIO</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+<span>M</span> <b>$TUDIO</b>
+</div>
+
+<nav>
+<a href="#shop">Shop</a>
+<a href="#contact">Kontakt</a>
+<a href="#cart">Kundvagn</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h1>M $TUDIO</h1>
+
+<p>Premium streetwear för framtiden</p>
+
+<button>
+Shoppa nu
+</button>
+
+</section>
+
+
+
+<section id="shop">
+
+<h2>Kollektion</h2>
+
+
+<div class="products">
+
+
+<div class="product">
+
+<div class="image">
+M $TUDIO
+</div>
+
+<h3>Black Hoodie</h3>
+
+<p>799 kr</p>
+
+<select>
+<option>S</option>
+<option>M</option>
+<option>L</option>
+<option>XL</option>
+</select>
+
+<button class="add">
+Lägg i kundvagn
+</button>
+
+</div>
+
+
+
+<div class="product">
+
+<div class="image">
+M $TUDIO
+</div>
+
+<h3>Oversized T-shirt</h3>
+
+<p>499 kr</p>
+
+<select>
+<option>S</option>
+<option>M</option>
+<option>L</option>
+<option>XL</option>
+</select>
+
+<button class="add">
+Lägg i kundvagn
+</button>
+
+</div>
+
+
+
+<div class="product">
+
+<div class="image">
+M $TUDIO
+</div>
+
+<h3>Cargo Pants</h3>
+
+<p>899 kr</p>
+
+<select>
+<option>S</option>
+<option>M</option>
+<option>L</option>
+<option>XL</option>
+</select>
+
+<button class="add">
+Lägg i kundvagn
+</button>
+
+</div>
+
+
+</div>
+
+</section>
+
+
+
+<section id="cart">
+
+<h2>Kundvagn</h2>
+
+<div id="cart-items">
+Kundvagnen är tom
+</div>
+
+<h3 id="total">
+Totalt: 0 kr
+</h3>
+
+</section>
+
+
+
+
+<section id="contact">
+
+<h2>Kontakt</h2>
+
+<input placeholder="Namn">
+
+<input placeholder="Email">
+
+<textarea placeholder="Meddelande"></textarea>
+
+<button>
+Skicka
+</button>
+
+</section>
+
+
+
+<footer>
+
+<p>
+© 2026 M $TUDIO
+</p>
+
+</footer>
+
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
